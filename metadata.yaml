@@ -1,0 +1,28 @@
+_repo: Catalogue-of-the-William-Loring-Andrews-Collection-of-Early-Books-in-the-Library-of-Yale-Univ__16844
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Name, Addison
+    alias: Name, Addison Van
+    gutenberg_agent_id: '9665'
+    url: http://www.gutenberg.org/2009/agents/9665
+description: ''
+gutenberg_issued: '2005-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16844'
+  lccn: '13026411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Rare books -- Connecticut -- New Haven -- Bibliography -- Catalogs'
+- !lcsh 'Incunabula -- Connecticut -- New Haven -- Bibliography -- Catalogs'
+title: Catalogue of the William Loring Andrews Collection of Early Books in the Library
+  of Yale University
+url: http://www.gutenberg.org/ebooks/16844
